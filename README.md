@@ -12,7 +12,7 @@ You can also run the program from an IDE like Visual Studio Code. Start your IDE
 # Project Structure
 The project files and folders are organized as follows:
 # 
-root                    (project root folder)
+root                    (project root folder) 
 +-- jumper              (source code for game)
   +-- game              (specific game classes)
     +-- console.py      (Class for displaying)
