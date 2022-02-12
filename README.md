@@ -26,3 +26,7 @@ root                    (project root folder)
 # Required Technologies
 Python 3.8.0
 # Author
+Robert Lowry = He contributed jumper class
+Samuel Kaleopa = I contributed console class
+Stephanie Pena = She contributed word class 
+We all contributed to the Director class
