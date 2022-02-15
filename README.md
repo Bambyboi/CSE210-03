@@ -9,10 +9,11 @@ Make sure you have Python 3.8.0 or newer installed and running on your machine. 
 # python3 jumper
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the project folder. Select the main module inside the hunter folder and click the "run" icon.
 
-# Project Structure
+## Project Structure
+---
 The project files and folders are organized as follows:
-## 
-root                    (project root folder) 
+```
+root                    (project root folder)
 +-- jumper              (source code for game)
   +-- game              (specific game classes)
     +-- console.py      (Class for displaying)
@@ -23,6 +24,8 @@ root                    (project root folder)
   +-- __main__.py       (entry point for program)
   +-- wordlist.txt      (text document for random word)
 +-- README.md           (general info)
+```
+
 # Required Technologies
 Python 3.8.0
 # Author
