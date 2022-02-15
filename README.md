@@ -3,10 +3,12 @@ Jumper Specification
 
 Tension so thick you can cut it with a knife! Jumper seems like a pretty laid back game until it's not! The rules are simple. The jumper guesses letters, one at a time. If the letter's not in the puzzle, the parachute loses a line. Guessing continues until the puzzle is solved or, well, you know.
 
-# Getting Started
+## Getting Started
+---
 Make sure you have Python 3.8.0 or newer installed and running on your machine. Open a terminal and browse to the project's root folder. Start the program by running the following command.
-
-# python3 jumper
+```
+## python3 jumper
+```
 You can also run the program from an IDE like Visual Studio Code. Start your IDE and open the project folder. Select the main module inside the hunter folder and click the "run" icon.
 
 ## Project Structure
@@ -26,10 +28,13 @@ root                    (project root folder)
 +-- README.md           (general info)
 ```
 
-# Required Technologies
-Python 3.8.0
-# Author
-Robert Lowry = He contributed jumper class
+## Required Technologies
+---
+* Python 3.8.0
+## Author
+---
+*TODO: Robert Lowry = He contributed jumper class
 Samuel Kaleopa = I contributed console class
 Stephanie Pena = She contributed word class 
 We all contributed to the Director class
+---
